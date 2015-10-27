@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{5628efda-0f39-4b07-826f-87689aaa5e03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Algorithm">
+      <UniqueIdentifier>{2b1f3198-d9e5-43bb-a8a0-aa14f6f288a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Define">
+      <UniqueIdentifier>{93b5eab3-6295-42d6-b715-bddf6d1774e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Detection">
+      <UniqueIdentifier>{be37de53-de64-4ab3-bd47-f453010c52d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Function">
+      <UniqueIdentifier>{85346cfa-9a72-455e-81f5-5f7eb61c9310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Sensor">
+      <UniqueIdentifier>{0c17294c-e4f8-43b4-a8a9-06cfa9530aea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\SerialPort">
+      <UniqueIdentifier>{60fada6d-abd5-4e54-b647-e4e970415eb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Time">
+      <UniqueIdentifier>{2390f606-9ca2-4605-a002-aba3646b91a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Vision">
+      <UniqueIdentifier>{3971c3bc-5e94-4dfd-ab4d-5e8261ecc4f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Xtion">
+      <UniqueIdentifier>{a157c7e3-9b9d-45b0-ad04-bbc4af301e67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Strategy">
+      <UniqueIdentifier>{6cde17f2-e740-4637-a678-e3a92fa3ac7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI_Strategy">
+      <UniqueIdentifier>{2f612bf9-96c1-4923-b9a8-30659da0124f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\CommonInfo">
+      <UniqueIdentifier>{faca48eb-9900-44d3-a108-dc98e6adbf68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="app.ico">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GazeControl.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonInfo.cpp">
+      <Filter>Common\CommonInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectRegion.cpp">
+      <Filter>Common\Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Common\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="Strategy.cpp">
+      <Filter>Common\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="XtionControl.cpp">
+      <Filter>Common\Xtion</Filter>
+    </ClCompile>
+    <ClCompile Include="Vision.cpp">
+      <Filter>Common\Vision</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Common\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiTimer.cpp">
+      <Filter>Common\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="SerialPort.cpp">
+      <Filter>Common\SerialPort</Filter>
+    </ClCompile>
+    <ClCompile Include="Sensor.cpp">
+      <Filter>Common\Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Strategy.cpp">
+      <Filter>AI_Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="XtionDrawFuction.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonInfo.h">
+      <Filter>Common\CommonInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Common\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectRegion.h">
+      <Filter>Common\Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Common\Function</Filter>
+    </ClInclude>
+    <ClInclude Include="Strategy.h">
+      <Filter>Common\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="XtionControl.h">
+      <Filter>Common\Xtion</Filter>
+    </ClInclude>
+    <ClInclude Include="Vision.h">
+      <Filter>Common\Vision</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Common\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiTimer.h">
+      <Filter>Common\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="SerialPort.h">
+      <Filter>Common\SerialPort</Filter>
+    </ClInclude>
+    <ClInclude Include="Sensor.h">
+      <Filter>Common\Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Strategy.h">
+      <Filter>AI_Strategy</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

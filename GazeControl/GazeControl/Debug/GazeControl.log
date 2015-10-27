@@ -1,0 +1,182 @@
+﻿已經開始建置於 2015/10/27 下午 02:18:51。
+     1>節點 2 (build 目標) 上的專案 "D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\GazeControl\GazeControl.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\GazeControl.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\OpenNI\Include" /I.\VideoInput2008\include /I.\OpenCV\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\GazeControl.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib /I".\VideoInput2008\include" 
+         stdafx.cpp
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Vision.h(113): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2255): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2255): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2256): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2256): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2257): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2257): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2258): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2258): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2365): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2366): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2368): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2369): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2371): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2372): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2373): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2374): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2376): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2377): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2378): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2379): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2424): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2425): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2506): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2507): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2920): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(2922): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(3000): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(3001): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(3091): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\Form1.h(3096): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\OpenNI\Include" /I.\VideoInput2008\include /I.\OpenCV\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GazeControl.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp A_Strategy.cpp CommonInfo.cpp Functions.cpp GameTime.cpp GazeControl.cpp MultiTimer.cpp ObjectRegion.cpp Sensor.cpp SerialPort.cpp Strategy.cpp Vision.cpp XtionControl.cpp XtionDrawFuction.cpp /clr:nostdlib /I".\VideoInput2008\include" 
+         AssemblyInfo.cpp
+         A_Strategy.cpp
+         CommonInfo.cpp
+         Functions.cpp
+     1>Functions.cpp(111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 請參閱 'fopen' 的宣告
+     1>Functions.cpp(121): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>Functions.cpp(122): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>Functions.cpp(168): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>Functions.cpp(176): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         GameTime.cpp
+     1>GameTime.cpp(37): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : 請參閱 'localtime' 的宣告
+     1>GameTime.cpp(47): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : 請參閱 'localtime' 的宣告
+     1>GameTime.cpp(50): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 請參閱 'strcat' 的宣告
+     1>GameTime.cpp(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 請參閱 'fopen' 的宣告
+     1>GameTime.cpp(63): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : 請參閱 'localtime' 的宣告
+     1>GameTime.cpp(73): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : 請參閱 'localtime' 的宣告
+         GazeControl.cpp
+         MultiTimer.cpp
+         ObjectRegion.cpp
+         Sensor.cpp
+         SerialPort.cpp
+         Strategy.cpp
+     1>Strategy.cpp(284): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         Vision.cpp
+     1>Vision.cpp(531): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         XtionControl.cpp
+     1>XtionControl.cpp(146): warning C4996: 'xn::Context::Shutdown': You may use Release() instead, or count on dtor
+                 C:\Program Files (x86)\OpenNI\Include\XnCppWrapper.h(5706) : 請參閱 'xn::Context::Shutdown' 的宣告
+     1>XtionControl.cpp(159): warning C4101: 'nEventIdx' : 未參考的區域變數
+         XtionDrawFuction.cpp
+     1>XtionDrawFuction.cpp(117): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(117): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(122): warning C4244: '正在初始化' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(123): warning C4244: '正在初始化' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(128): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(128): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(129): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(129): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(133): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(133): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(134): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(134): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(135): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(135): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(136): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(136): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(137): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(137): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(141): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(141): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(142): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(142): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(143): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(143): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(144): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(144): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(145): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(145): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(149): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(149): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(150): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(150): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(151): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(151): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(155): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(155): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(156): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(156): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(157): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(157): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(158): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(158): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(161): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(161): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(162): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(162): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(163): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(163): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(164): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>XtionDrawFuction.cpp(164): warning C4244: '引數' : 將 'XnFloat' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         正在產生程式碼...
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\opencv\include\opencv2\core\types_c.h(312): warning C4793: 'cvRound' : 函式以機器碼編譯 :
+         	在 Managed 程式碼中不支援內嵌原生組譯碼
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\functions.cpp(73): warning C4715: 'Tool::getMin' : 不是所有控制路徑都傳回值
+     1>d:\airobots\code\gaze control\for-magicwei-depplearning-gaze-control\gazecontrol\gazecontrol\functions.cpp(85): warning C4715: 'Tool::getMax' : 不是所有控制路徑都傳回值
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\GazeControl.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\OpenNI\Lib" /LIBPATH:.\VideoInput2008 /LIBPATH:.\OpenCV\lib /LIBPATH:.\OpenCV\bin OpenNI.lib videoInput.lib opencv_calib3d242d.lib opencv_contrib242d.lib opencv_core242d.lib opencv_features2d242d.lib opencv_flann242d.lib opencv_gpu242d.lib opencv_haartraining_engined.lib opencv_highgui242d.lib opencv_imgproc242d.lib opencv_legacy242d.lib opencv_ml242d.lib opencv_nonfree242d.lib opencv_objdetect242d.lib opencv_photo242d.lib opencv_stitching242d.lib opencv_ts242d.lib opencv_video242d.lib opencv_videostab242d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:atlthunk.lib /ASSEMBLYRESOURCE:Debug\GazeControl.Form1.resources /MANIFEST /ManifestFile:"Debug\GazeControl.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\GazeControl.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /STACK:"32000000" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\A_Strategy.obj
+         Debug\CommonInfo.obj
+         Debug\Functions.obj
+         Debug\GameTime.obj
+         Debug\GazeControl.obj
+         Debug\MultiTimer.obj
+         Debug\ObjectRegion.obj
+         Debug\Sensor.obj
+         Debug\SerialPort.obj
+         Debug\stdafx.obj
+         Debug\Strategy.obj
+         Debug\Vision.obj
+         Debug\XtionControl.obj
+         Debug\XtionDrawFuction.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>XtionDrawFuction.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000035) (對 'XnInternalNodeData' 而言)，映像可能無法執行
+     1>XtionControl.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (0100003B) (對 'XnInternalNodeData' 而言)，映像可能無法執行
+     1>stdafx.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000038) (對 'XnInternalNodeData' 而言)，映像可能無法執行
+     1>XtionControl.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (0100003D) (對 'XnContext' 而言)，映像可能無法執行
+     1>stdafx.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000039) (對 'XnContext' 而言)，映像可能無法執行
+     1>stdafx.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (0100003A) (對 'XnNodeInfo' 而言)，映像可能無法執行
+     1>stdafx.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (0100003C) (對 'XnNodeInfoList' 而言)，映像可能無法執行
+     1>XtionControl.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (0100003F) (對 'XnNodeQuery' 而言)，映像可能無法執行
+     1>XtionControl.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000040) (對 'XnEnumerationErrors' 而言)，映像可能無法執行
+     1>videoInput.lib(videoInput.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'videoInput.lib(videoInput.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>opencv_haartraining_engined.lib(cvboost.obj) : warning LNK4099: 找不到 PDB 'opencv_haartraining_engined.pdb' (有 'opencv_haartraining_engined.lib(cvboost.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\opencv_haartraining_engined.pdb')，當做沒有偵錯資訊，連結物件
+     1>opencv_haartraining_engined.lib(cvcommon.obj) : warning LNK4099: 找不到 PDB 'opencv_haartraining_engined.pdb' (有 'opencv_haartraining_engined.lib(cvcommon.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\opencv_haartraining_engined.pdb')，當做沒有偵錯資訊，連結物件
+     1>opencv_haartraining_engined.lib(cvhaarclassifier.obj) : warning LNK4099: 找不到 PDB 'opencv_haartraining_engined.pdb' (有 'opencv_haartraining_engined.lib(cvhaarclassifier.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\opencv_haartraining_engined.pdb')，當做沒有偵錯資訊，連結物件
+     1>opencv_haartraining_engined.lib(cvhaartraining.obj) : warning LNK4099: 找不到 PDB 'opencv_haartraining_engined.pdb' (有 'opencv_haartraining_engined.lib(cvhaartraining.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\opencv_haartraining_engined.pdb')，當做沒有偵錯資訊，連結物件
+     1>opencv_haartraining_engined.lib(cvsamples.obj) : warning LNK4099: 找不到 PDB 'opencv_haartraining_engined.pdb' (有 'opencv_haartraining_engined.lib(cvsamples.obj)' 或位於 'D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\opencv_haartraining_engined.pdb')，當做沒有偵錯資訊，連結物件
+         GazeControl.vcxproj -> D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\GazeControl.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\Debug\GazeControl.exe;#1" /manifest Debug\GazeControl.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\GazeControl.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\GazeControl.lastbuildstate"。
+     1>專案 "D:\aiRobots\code\Gaze Control\for-magicwei-depplearning-gaze-control\GazeControl\GazeControl\GazeControl.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.41
